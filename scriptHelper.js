@@ -1,6 +1,6 @@
 // Write your helper functions here!
-var  x=require('isomorphic-fetch');
-var Jasmine = require('jasmine');
+// var  x=require('isomorphic-fetch');
+// var Jasmine = require('jasmine');
 
 function addDestinationInfo(document, name, diameter, star, distance, moons, imageUrl) {
    // Here is the HTML formatting for our mission target div.
